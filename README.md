@@ -1,5 +1,6 @@
 # GTH-CapsLock
 
 ```
-git@github.com:sekigon-gonnoc/Pico-PIO-USB.git
+git submodule init
+git submodule update
 ```
