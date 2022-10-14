@@ -1,2 +1,5 @@
 # GTH-CapsLock
-CapsLockなんていなかった
+
+```
+git@github.com:sekigon-gonnoc/Pico-PIO-USB.git
+```
