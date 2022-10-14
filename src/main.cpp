@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "pio_usb.h"
+// #include "pio_usb.h"
 
 const int PICO_LED = 25;
 
@@ -13,8 +13,8 @@ void loop()
 {
   // put your main code here, to run repeatedly:
   digitalWrite(PICO_LED, HIGH);
-  delay(500);
+  delay(1000);
 
   digitalWrite(PICO_LED, LOW);
-  delay(500);
+  delay(1000);
 }
